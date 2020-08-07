@@ -24,10 +24,6 @@ class App extends React.Component {
   }
   
   render(){
-
-    let contextValues = {
-      profiles : this.state.profiles
-    }
     return (
       <div>
           {/* Display the full list of Profiles */}
