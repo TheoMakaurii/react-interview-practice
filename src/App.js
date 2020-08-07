@@ -1,7 +1,5 @@
 import React from 'react';
 import './App.css';
-import AppContext from './AppContext';
-import Profile from './Profile';
 
 class App extends React.Component {
 
