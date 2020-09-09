@@ -33,6 +33,7 @@ class App extends React.Component {
       firstName:fn,
       lastName: ln,
       role: r,
+      id: Math.random()
       }
       ]
     })
